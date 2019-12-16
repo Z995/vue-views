@@ -1,7 +1,7 @@
 <template>
 	<div class="ceshi">
 		
-		djasldlskdlsa
+		<button>ceshi</button>
 	</div>
 </template>
 
